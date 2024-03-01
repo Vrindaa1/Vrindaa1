@@ -1,6 +1,6 @@
 Hi 👋, I'm Vrindawan Kumar
 
-A Data Analytics enthusiast!
+                           A Data Analytics enthusiast!
 
 🔭 I’m currently working on improving my skills.
 
