@@ -1,4 +1,4 @@
-[![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
+![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Vrindawan Kumar</h1>
 <h3 align="center">A Data Analytics enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
